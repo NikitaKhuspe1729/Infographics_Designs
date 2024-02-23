@@ -1,4 +1,7 @@
 # Infographics_Designs
+![mockup edzorblaw2](https://github.com/NikitaKhuspe1729/Infographics_Designs/assets/125488086/cad19846-1de5-4144-bae0-12671406205c)
+
+
 ![why mis](https://github.com/NikitaKhuspe1729/Infographics_Designs/assets/125488086/4b8095e8-5282-4e98-9911-161b93a72a30)
 
 https://github.com/NikitaKhuspe1729/Infographics_Designs/assets/125488086/241c530b-3d55-460b-bc8b-94661dc64495
