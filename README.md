@@ -1,9 +1,10 @@
 # Infographics_Designs
+# FIGMA
 ![edzorblaw mockup3](https://github.com/NikitaKhuspe1729/Infographics_Designs/assets/125488086/baa5775e-927e-4a50-8696-6fa9b3b8fdb0)
 
 
 ![why mis](https://github.com/NikitaKhuspe1729/Infographics_Designs/assets/125488086/4b8095e8-5282-4e98-9911-161b93a72a30)
-
+# CANVA
 https://github.com/NikitaKhuspe1729/Infographics_Designs/assets/125488086/241c530b-3d55-460b-bc8b-94661dc64495
 
 ![aptcoder infographic](https://github.com/NikitaKhuspe1729/Infographics_Designs/assets/125488086/8d306765-5ca3-4831-9414-d9923a6f9c9b)
